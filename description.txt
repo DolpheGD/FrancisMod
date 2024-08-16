@@ -1,0 +1,36 @@
+Francis Mod for Francis enjoyers
+
+Credits to Francis for being a Francis
+The Rest was made by Dolphe
+
+Music Used
+ - Red Sun from MGR
+ - TWISTED GARDEN (remix by Kuudray)
+
+
+Features:
+ - 3 New enemies
+    - Francis Slime
+    - Francis Bot
+    - Francis Floater, summons Francis Minions
+
+ - 1 New Boss
+    - MG Francis
+
+ - 5 New Weapons
+    - Francis Sword
+    - The Chair
+    - Book of Francis
+    - Fish Head Launcher
+    - The Francis Slayer
+
+ - 8 New Items
+    - Francis Ore
+    - Francis Bar
+    - Francis Dust
+    - Refined Francis Bar
+    - MG Francis Boss Bag
+    - MG Francis Relic
+    - Skinny Pop
+    - Mechanical Skinny Pop
+ 

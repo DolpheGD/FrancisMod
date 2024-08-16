@@ -1,0 +1,5 @@
+displayName = Francis Mod
+author = Dolphe
+version = 0.5.2
+modReferences = CalamityMod
+sortAfter = CalamityMod

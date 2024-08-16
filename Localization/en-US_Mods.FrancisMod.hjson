@@ -1,0 +1,164 @@
+# This file will automatically update with entries for new content after a build and reload
+
+Items: {
+	FrancisSword: {
+		DisplayName: Francis Sword
+		Tooltip: Francis ate half of a chicken leg
+	}
+
+	FrancisOre: {
+		DisplayName: Francis Ore
+		Tooltip: An ordinary rock touched by Francis
+	}
+
+	FrancisBar: {
+		DisplayName: Francis Bar
+		Tooltip: Francis has Bars in more ways than one
+	}
+
+	TheChair: {
+		DisplayName: The Chair
+		Tooltip: A fire hydrant powered Francis into a water gun
+	}
+
+	FrancisDust: {
+		DisplayName: Francis Dust
+		Tooltip: Francis'   uhhhhh... dust?
+	}
+
+	BookOfFrancis: {
+		DisplayName: Book Of Francis
+		Tooltip:
+			'''
+			[Right click] to shoot a Francis Ball
+			It's probably just manga
+			'''
+	}
+
+	SkinnyPop: {
+		DisplayName: Skinny Pop
+		Tooltip: Francis' Favorite popcorn
+	}
+
+	MechanicalSkinnyPop: {
+		DisplayName: Mechanical Skinny Pop
+		Tooltip: The rumbling of the M.G. Francis calls...
+	}
+
+	RefinedFrancisBar: {
+		DisplayName: Refined Francis Bar
+		Tooltip: The Energy of the Francis Bar resonates with you...
+	}
+
+	TheFrancisSlayer: {
+		DisplayName: The Francis Slayer
+		Tooltip:
+			'''
+			[Right click] to throw the Francis Slayer
+			On hit, the Sword will be empowered 
+			'''
+	}
+
+	MGFrancisRelic: {
+		DisplayName: M.G. Francis Relic
+		Tooltip: The echos of the Mechanical Skinny Pop resonate with you
+	}
+
+	MGFrancisBossBag: {
+		DisplayName: M.G. Francis Boss Bag
+		Tooltip: Right click to open
+	}
+
+	FishHeadLauncher: {
+		DisplayName: Fish Head Launcher
+		Tooltip: Fish Heads Fish Heads Rolly Polly Fish Heads
+	}
+
+	JoshsFrostBlade: {
+		Tooltip: Can cut through anything
+		DisplayName: Josh's Frost Blade
+	}
+
+	StaffOfTheEggBiscuit: {
+		Tooltip: Summons 4 Egg Biscuits that converge on the mouse position
+		DisplayName: Staff of the Egg Biscuit
+	}
+
+	FrancisMinionStaff: {
+		DisplayName: Francis Minion Book
+		Tooltip: Summons a Floating Francis Head
+	}
+
+	Weapons: {
+		Rogue: {
+			DiscOfFrancis: {
+				DisplayName: Disk Of Francis
+				Tooltip:
+					'''
+					Shoots a Mechanical Francis Disk
+					Stealth Strike shoots mini disks that home
+					'''
+			}
+		}
+	}
+
+	EGlasses: {
+		DisplayName: E-Glasses
+		Tooltip:
+			'''
+			12% Damage bonus
+			6% Rogue Damage bonus
+			"See the world in a new way"
+			'''
+	}
+
+	DivineEggBiscuit: {
+		DisplayName: Divine Egg Biscuit
+		Tooltip: Your Final Test...
+	}
+}
+
+NPCs: {
+	FrancisSlime.DisplayName: Francis Slime
+	FrancisBot.DisplayName: Francis Bot
+	FrancisFloater.DisplayName: Francis Floater
+	FrancisMinion.DisplayName: Francis Minion
+	FrancisBotPrime.DisplayName: M.G. Francis
+	FrancisBotPrimeMinion.DisplayName: Mechanical Skinny Popper
+	temp.DisplayName: temp
+	FrancisMechMinion.DisplayName: Mechanical Francis Probe
+	MetalGearFrancis.DisplayName: Metal Gear Francis
+	MetalGearFrancisMinion.DisplayName: Metal Gear Francis Minion
+	FrancisTheGodOfSkinnyPop.DisplayName: Josh
+}
+
+Tiles.FrancisOre.MapEntry: Francis Ore
+
+Projectiles: {
+	FrancisHoming.DisplayName: Francis Homing Missile
+	FrancisOrb.DisplayName: Francis Orb
+	SkinnyPopBomb.DisplayName: Skinny Pop Bomb
+	FrancisSlayerSwing.DisplayName: Francis Slayer
+	FrancisSlayerShoot.DisplayName: Francis Slayer
+	FrancisBall.DisplayName: Francis Ball
+	FishHead.DisplayName: Fish Head
+	EggBiscuit.DisplayName: Egg Biscuit
+	FrancisHeadMinion.DisplayName: Francis Head Minion
+	DiscOfFrancisProjectile.DisplayName: Disk Of Francis
+	DiscOfFrancisProjectile2.DisplayName: Mini Disk Of Francis
+	ObamaBomb.DisplayName: Obama Bomb
+	AdiBullet.DisplayName: Adi Bullet
+	FrancisMeal.DisplayName: Francis Meal
+}
+
+Buffs: {
+	SkinnyPopped: {
+		DisplayName: Skinny Popped
+		Description: Grants the power of skinny pop
+	}
+
+	FrancisHeadBuff: {
+		DisplayName: Francis Head Buff
+		Description: Francis Head will protect you
+	}
+}

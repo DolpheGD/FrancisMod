@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XyiR5f2U1repb8tyWkJUUASB/dewZGq+fB5ES+jC7sgDeyG9w7KrH0ZCYXqiy4/wOdTefVvDTIPjDzUarGnLHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Landen\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\FrancisMod\\FrancisMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Landen\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
